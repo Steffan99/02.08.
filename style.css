@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    font-family: system-ui;
+}
+
+.hero {
+    background-image: url("../css/Nosotros-3.jpg");
+    background-size: cover;
+
+    color: white;
+    padding-top: 400px;
+    padding-bottom: 600px;
+}
+
+.hero {
+    background-color: aquamarine;
+    color: white;
+}
+.container {
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
